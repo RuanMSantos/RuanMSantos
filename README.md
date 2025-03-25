@@ -34,4 +34,7 @@
   <a href="https://www.instagram.com/x_kbelinho_x/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
 </div>
 
-<img align="right" alt="Ruan-Gif" height="180" width="180" src="https://media1.tenor.com/m/stmRA2CsDPgAAAAd/gon-hx-h.gif" />
+<div style="display: inline_block">
+<img align="left" alt="Ruan-Gif1" height="90" width="90" src="https://media1.tenor.com/m/VhELSX49sI8AAAAC/thinking-hmm.gif" />
+<img align="right" alt="Ruan-Gif2" height="180" width="180" src="https://media1.tenor.com/m/stmRA2CsDPgAAAAd/gon-hx-h.gif" />
+</div>
