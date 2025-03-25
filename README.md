@@ -25,7 +25,6 @@
   <img align="center" alt="Ruan-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Ruan-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Ruan-Nuget" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" />
-  <img align="right" alt="Ruan-Gif" height="180" width="180" src="https://media1.tenor.com/m/stmRA2CsDPgAAAAd/gon-hx-h.gif" />
 </div>
 
 ## 
@@ -35,4 +34,4 @@
   <a href="https://www.instagram.com/x_kbelinho_x/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank" /></a>
 </div>
 
-![Snake animation](https://github.com/RuanMSantos/RuanMSantos/blob/output/github-contribution-grid-snake.svg)
+<img align="right" alt="Ruan-Gif" height="180" width="180" src="https://media1.tenor.com/m/stmRA2CsDPgAAAAd/gon-hx-h.gif" />
